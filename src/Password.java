@@ -6,6 +6,7 @@ import java.io.IOException;
 public class Password{
     private String password;
     private String sample;
+    private String lol;
 
     String getPassword() {
         return password;                //Гетер пароля
